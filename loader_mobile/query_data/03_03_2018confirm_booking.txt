@@ -1,0 +1,17 @@
+03/03/2018 11:26:46 pm SELECT base_fare, transit_charge, freewaiting_time FROM view_base_fare  WHERE vehicletype_id = '1'  03/03/2018 11:26:46 pm SELECT from_distance, to_distance, price_km FROM view_pricing  WHERE vehicletype_id = '1'  ORDER BY to_distance ASC 03/03/2018 11:26:46 pm INSERT INTO tbl_booking_detail (fld_vehicletype_id, fld_from_point, fld_to_point,
+								 fld_customer_name, fld_contact_no, fld_total_distance, fld_fare_min, fld_fare_max, fld_total_time, fld_crn_no, fld_customer_token,fld_booking_datetime,fld_material_image,fld_material_weight)
+								 VALUES('1', 'Salkia, Howrah, West Bengal, India', 'Howrah, West Bengal, India'
+								 , 'Ashish', '7678157636', '11.575', '577.5', '676.5', '34 mins','CRN1520099760','e8eeec426284a84f9874b12cfe5f8a2359d9327a','2018-03-03 23:26:00','1520099806shipper_e8eeec426284a84f9874b12cfe5f8a2359d9327a.jpg','1 Tonne')03/03/2018 11:26:46 pm SELECT fld_location_lat , fld_location_lng FROM tbl_customer_info WHERE fld_user_token = 'e8eeec426284a84f9874b12cfe5f8a2359d9327a' 03/03/2018 11:26:46 pm SELECT fld_gcm_regid, (3959*acos(cos(radians('19.1057'))*cos(radians(fld_location_lat))*
+				cos(radians(fld_location_lng) - radians('72.8991') ) + sin(radians('19.1057'))*
+				sin(radians(fld_location_lat)))) AS 'distance' FROM tbl_driver_info
+				WHERE (fld_vehicletype_id = '1') AND  (fld_is_busy = '0') AND (fld_is_active = '1')
+				HAVING distance < 5
+				ORDER BY distance ASC LIMIT 0,1 03/03/2018 11:28:31 pm SELECT base_fare, transit_charge, freewaiting_time FROM view_base_fare  WHERE vehicletype_id = '1'  03/03/2018 11:28:31 pm SELECT from_distance, to_distance, price_km FROM view_pricing  WHERE vehicletype_id = '1'  ORDER BY to_distance ASC 03/03/2018 11:28:31 pm INSERT INTO tbl_booking_detail (fld_vehicletype_id, fld_from_point, fld_to_point,
+								 fld_customer_name, fld_contact_no, fld_total_distance, fld_fare_min, fld_fare_max, fld_total_time, fld_crn_no, fld_customer_token,fld_booking_datetime,fld_material_image,fld_material_weight)
+								 VALUES('1', 'Salkia, Howrah, West Bengal, India', 'Howrah, West Bengal, India'
+								 , 'Ashish', '7678157636', '11.575', '577.5', '676.5', '34 mins','CRN1520099880','e8eeec426284a84f9874b12cfe5f8a2359d9327a','2018-03-03 23:28:00','1520099910shipper_e8eeec426284a84f9874b12cfe5f8a2359d9327a.jpg','.5 Tonne')03/03/2018 11:28:31 pm SELECT fld_location_lat , fld_location_lng FROM tbl_customer_info WHERE fld_user_token = 'e8eeec426284a84f9874b12cfe5f8a2359d9327a' 03/03/2018 11:28:31 pm SELECT fld_gcm_regid, (3959*acos(cos(radians('19.1057'))*cos(radians(fld_location_lat))*
+				cos(radians(fld_location_lng) - radians('72.8991') ) + sin(radians('19.1057'))*
+				sin(radians(fld_location_lat)))) AS 'distance' FROM tbl_driver_info
+				WHERE (fld_vehicletype_id = '1') AND  (fld_is_busy = '0') AND (fld_is_active = '1')
+				HAVING distance < 5
+				ORDER BY distance ASC LIMIT 0,1 

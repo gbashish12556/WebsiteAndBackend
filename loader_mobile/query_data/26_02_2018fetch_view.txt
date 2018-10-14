@@ -1,0 +1,8 @@
+26/02/2018 11:01:49 am SELECT MAX(update_date) FROM view_base_fare WHERE is_active = '1'
+26/02/2018 11:01:49 am SELECT MAX(update_date) FROM view_city WHERE is_active = '1'
+26/02/2018 11:01:50 am SELECT MAX(update_date) FROM view_pricing WHERE is_active = '1'
+26/02/2018 11:01:50 am SELECT MAX(update_date) FROM view_vehicle_type WHERE is_active = '1'
+26/02/2018 11:04:01 am SELECT MAX(update_date) FROM view_base_fare WHERE is_active = '1'
+26/02/2018 11:04:01 am SELECT MAX(update_date) FROM view_city WHERE is_active = '1'
+26/02/2018 11:04:03 am SELECT MAX(update_date) FROM view_pricing WHERE is_active = '1'
+26/02/2018 11:04:03 am SELECT MAX(update_date) FROM view_vehicle_type WHERE is_active = '1'

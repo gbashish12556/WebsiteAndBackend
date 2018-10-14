@@ -1,0 +1,36 @@
+24/02/2018 10:37:55 am Array
+(
+    [page] => change_driver_status
+    [status] => 1
+    [user_token] => dc59bc7d0d0f20949a71507ec4250afa40692085
+)
+24/02/2018 10:38:02 am Array
+(
+    [page] => change_driver_status
+    [status] => 0
+    [user_token] => dc59bc7d0d0f20949a71507ec4250afa40692085
+)
+24/02/2018 12:04:19 pm Array
+(
+    [page] => change_driver_status
+    [status] => 1
+    [user_token] => dc59bc7d0d0f20949a71507ec4250afa40692085
+)
+24/02/2018 12:04:23 pm Array
+(
+    [page] => change_driver_status
+    [status] => 0
+    [user_token] => dc59bc7d0d0f20949a71507ec4250afa40692085
+)
+24/02/2018 12:24:29 pm Array
+(
+    [page] => change_driver_status
+    [status] => 1
+    [user_token] => dc59bc7d0d0f20949a71507ec4250afa40692085
+)
+24/02/2018 12:24:36 pm Array
+(
+    [page] => change_driver_status
+    [status] => 0
+    [user_token] => dc59bc7d0d0f20949a71507ec4250afa40692085
+)

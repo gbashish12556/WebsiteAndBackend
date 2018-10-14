@@ -1,0 +1,36 @@
+28/02/2018 11:13:35 am Array
+(
+    [page] => get_city
+    [current_lat] => 19.1177812
+    [current_lng] => 72.8886938
+)
+28/02/2018 11:39:06 am Array
+(
+    [page] => get_city
+    [current_lat] => 19.117801
+    [current_lng] => 72.8887018
+)
+28/02/2018 11:44:08 am Array
+(
+    [page] => get_city
+    [current_lat] => 19.1177928
+    [current_lng] => 72.8886977
+)
+28/02/2018 11:47:05 am Array
+(
+    [page] => get_city
+    [current_lat] => 19.1177854
+    [current_lng] => 72.8887061
+)
+28/02/2018 11:57:30 am Array
+(
+    [page] => get_city
+    [current_lat] => 19.1177931
+    [current_lng] => 72.8886986
+)
+28/02/2018 11:57:30 am Array
+(
+    [page] => get_city
+    [current_lat] => 19.1177931
+    [current_lng] => 72.8886986
+)

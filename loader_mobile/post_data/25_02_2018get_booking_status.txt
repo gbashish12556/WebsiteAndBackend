@@ -1,0 +1,6 @@
+25/02/2018 09:59:25 pm Array
+(
+    [page] => get_booking_status
+    [crn_no] => CRN1519576140
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)

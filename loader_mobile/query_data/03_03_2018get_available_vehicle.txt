@@ -1,0 +1,148 @@
+03/03/2018 02:22:52 pm SELECT DISTINCT location_lat,location_lng,
+							( 3959 * acos( cos( radians('19.1056918')) * cos( radians(location_lat))
+							* cos( radians(location_lng) - radians('72.8991248')) + sin(radians('19.1056918'))
+							* sin( radians(location_lat)))) AS distance
+							FROM view_driver_info
+							WHERE vehicletype_id = '1' AND is_busy = '0' AND is_active = '1'
+							HAVING distance < 5
+							ORDER BY distance ASC 03/03/2018 02:22:52 pm loader_num_rows103/03/2018 02:22:53 pm SELECT DISTINCT location_lat,location_lng,
+							( 3959 * acos( cos( radians('19.1056918')) * cos( radians(location_lat))
+							* cos( radians(location_lng) - radians('72.8991248')) + sin(radians('19.1056918'))
+							* sin( radians(location_lat)))) AS distance
+							FROM view_driver_info
+							WHERE vehicletype_id = '9' AND is_busy = '0' AND is_active = '1'
+							HAVING distance < 5
+							ORDER BY distance ASC 03/03/2018 02:22:53 pm loader_num_rows003/03/2018 11:25:24 pm SELECT DISTINCT location_lat,location_lng,
+							( 3959 * acos( cos( radians('19.1056538')) * cos( radians(location_lat))
+							* cos( radians(location_lng) - radians('72.8990938')) + sin(radians('19.1056538'))
+							* sin( radians(location_lat)))) AS distance
+							FROM view_driver_info
+							WHERE vehicletype_id = '9' AND is_busy = '0' AND is_active = '1'
+							HAVING distance < 5
+							ORDER BY distance ASC 03/03/2018 11:25:24 pm loader_num_rows003/03/2018 11:25:24 pm SELECT DISTINCT location_lat,location_lng,
+							( 3959 * acos( cos( radians('19.1056538')) * cos( radians(location_lat))
+							* cos( radians(location_lng) - radians('72.8990938')) + sin(radians('19.1056538'))
+							* sin( radians(location_lat)))) AS distance
+							FROM view_driver_info
+							WHERE vehicletype_id = '1' AND is_busy = '0' AND is_active = '1'
+							HAVING distance < 5
+							ORDER BY distance ASC 03/03/2018 11:25:24 pm loader_num_rows103/03/2018 11:25:31 pm SELECT DISTINCT location_lat,location_lng,
+							( 3959 * acos( cos( radians('19.1056863')) * cos( radians(location_lat))
+							* cos( radians(location_lng) - radians('72.8991022')) + sin(radians('19.1056863'))
+							* sin( radians(location_lat)))) AS distance
+							FROM view_driver_info
+							WHERE vehicletype_id = '1' AND is_busy = '0' AND is_active = '1'
+							HAVING distance < 5
+							ORDER BY distance ASC 03/03/2018 11:25:31 pm loader_num_rows103/03/2018 11:25:32 pm SELECT DISTINCT location_lat,location_lng,
+							( 3959 * acos( cos( radians('19.1056863')) * cos( radians(location_lat))
+							* cos( radians(location_lng) - radians('72.8991022')) + sin(radians('19.1056863'))
+							* sin( radians(location_lat)))) AS distance
+							FROM view_driver_info
+							WHERE vehicletype_id = '9' AND is_busy = '0' AND is_active = '1'
+							HAVING distance < 5
+							ORDER BY distance ASC 03/03/2018 11:25:32 pm loader_num_rows003/03/2018 11:25:33 pm SELECT DISTINCT location_lat,location_lng,
+							( 3959 * acos( cos( radians('19.1056863')) * cos( radians(location_lat))
+							* cos( radians(location_lng) - radians('72.8991022')) + sin(radians('19.1056863'))
+							* sin( radians(location_lat)))) AS distance
+							FROM view_driver_info
+							WHERE vehicletype_id = '9' AND is_busy = '0' AND is_active = '1'
+							HAVING distance < 5
+							ORDER BY distance ASC 03/03/2018 11:25:33 pm loader_num_rows003/03/2018 11:25:33 pm SELECT DISTINCT location_lat,location_lng,
+							( 3959 * acos( cos( radians('19.1056863')) * cos( radians(location_lat))
+							* cos( radians(location_lng) - radians('72.8991022')) + sin(radians('19.1056863'))
+							* sin( radians(location_lat)))) AS distance
+							FROM view_driver_info
+							WHERE vehicletype_id = '1' AND is_busy = '0' AND is_active = '1'
+							HAVING distance < 5
+							ORDER BY distance ASC 03/03/2018 11:25:33 pm loader_num_rows103/03/2018 11:25:35 pm SELECT DISTINCT location_lat,location_lng,
+							( 3959 * acos( cos( radians('19.1057073')) * cos( radians(location_lat))
+							* cos( radians(location_lng) - radians('72.8991039')) + sin(radians('19.1057073'))
+							* sin( radians(location_lat)))) AS distance
+							FROM view_driver_info
+							WHERE vehicletype_id = '9' AND is_busy = '0' AND is_active = '1'
+							HAVING distance < 5
+							ORDER BY distance ASC 03/03/2018 11:25:35 pm loader_num_rows003/03/2018 11:25:35 pm SELECT DISTINCT location_lat,location_lng,
+							( 3959 * acos( cos( radians('19.1057073')) * cos( radians(location_lat))
+							* cos( radians(location_lng) - radians('72.8991039')) + sin(radians('19.1057073'))
+							* sin( radians(location_lat)))) AS distance
+							FROM view_driver_info
+							WHERE vehicletype_id = '1' AND is_busy = '0' AND is_active = '1'
+							HAVING distance < 5
+							ORDER BY distance ASC 03/03/2018 11:25:35 pm loader_num_rows103/03/2018 11:25:37 pm SELECT DISTINCT location_lat,location_lng,
+							( 3959 * acos( cos( radians('19.1057073')) * cos( radians(location_lat))
+							* cos( radians(location_lng) - radians('72.8991039')) + sin(radians('19.1057073'))
+							* sin( radians(location_lat)))) AS distance
+							FROM view_driver_info
+							WHERE vehicletype_id = '9' AND is_busy = '0' AND is_active = '1'
+							HAVING distance < 5
+							ORDER BY distance ASC 03/03/2018 11:25:37 pm loader_num_rows003/03/2018 11:25:37 pm SELECT DISTINCT location_lat,location_lng,
+							( 3959 * acos( cos( radians('19.1057073')) * cos( radians(location_lat))
+							* cos( radians(location_lng) - radians('72.8991039')) + sin(radians('19.1057073'))
+							* sin( radians(location_lat)))) AS distance
+							FROM view_driver_info
+							WHERE vehicletype_id = '1' AND is_busy = '0' AND is_active = '1'
+							HAVING distance < 5
+							ORDER BY distance ASC 03/03/2018 11:25:37 pm loader_num_rows103/03/2018 11:25:39 pm SELECT DISTINCT location_lat,location_lng,
+							( 3959 * acos( cos( radians('19.1057073')) * cos( radians(location_lat))
+							* cos( radians(location_lng) - radians('72.8991039')) + sin(radians('19.1057073'))
+							* sin( radians(location_lat)))) AS distance
+							FROM view_driver_info
+							WHERE vehicletype_id = '9' AND is_busy = '0' AND is_active = '1'
+							HAVING distance < 5
+							ORDER BY distance ASC 03/03/2018 11:25:39 pm loader_num_rows003/03/2018 11:25:39 pm SELECT DISTINCT location_lat,location_lng,
+							( 3959 * acos( cos( radians('19.1057073')) * cos( radians(location_lat))
+							* cos( radians(location_lng) - radians('72.8991039')) + sin(radians('19.1057073'))
+							* sin( radians(location_lat)))) AS distance
+							FROM view_driver_info
+							WHERE vehicletype_id = '1' AND is_busy = '0' AND is_active = '1'
+							HAVING distance < 5
+							ORDER BY distance ASC 03/03/2018 11:25:39 pm loader_num_rows103/03/2018 11:25:47 pm SELECT DISTINCT location_lat,location_lng,
+							( 3959 * acos( cos( radians('19.1056948')) * cos( radians(location_lat))
+							* cos( radians(location_lng) - radians('72.899117')) + sin(radians('19.1056948'))
+							* sin( radians(location_lat)))) AS distance
+							FROM view_driver_info
+							WHERE vehicletype_id = '9' AND is_busy = '0' AND is_active = '1'
+							HAVING distance < 5
+							ORDER BY distance ASC 03/03/2018 11:25:47 pm loader_num_rows003/03/2018 11:25:48 pm SELECT DISTINCT location_lat,location_lng,
+							( 3959 * acos( cos( radians('19.1056948')) * cos( radians(location_lat))
+							* cos( radians(location_lng) - radians('72.899117')) + sin(radians('19.1056948'))
+							* sin( radians(location_lat)))) AS distance
+							FROM view_driver_info
+							WHERE vehicletype_id = '1' AND is_busy = '0' AND is_active = '1'
+							HAVING distance < 5
+							ORDER BY distance ASC 03/03/2018 11:25:48 pm loader_num_rows103/03/2018 11:25:51 pm SELECT DISTINCT location_lat,location_lng,
+							( 3959 * acos( cos( radians('19.1056948')) * cos( radians(location_lat))
+							* cos( radians(location_lng) - radians('72.899117')) + sin(radians('19.1056948'))
+							* sin( radians(location_lat)))) AS distance
+							FROM view_driver_info
+							WHERE vehicletype_id = '1' AND is_busy = '0' AND is_active = '1'
+							HAVING distance < 5
+							ORDER BY distance ASC 03/03/2018 11:25:51 pm loader_num_rows103/03/2018 11:26:04 pm SELECT DISTINCT location_lat,location_lng,
+							( 3959 * acos( cos( radians('19.1056761')) * cos( radians(location_lat))
+							* cos( radians(location_lng) - radians('72.8991042')) + sin(radians('19.1056761'))
+							* sin( radians(location_lat)))) AS distance
+							FROM view_driver_info
+							WHERE vehicletype_id = '1' AND is_busy = '0' AND is_active = '1'
+							HAVING distance < 5
+							ORDER BY distance ASC 03/03/2018 11:26:04 pm loader_num_rows103/03/2018 11:28:06 pm SELECT DISTINCT location_lat,location_lng,
+							( 3959 * acos( cos( radians('19.1057094')) * cos( radians(location_lat))
+							* cos( radians(location_lng) - radians('72.8991014')) + sin(radians('19.1057094'))
+							* sin( radians(location_lat)))) AS distance
+							FROM view_driver_info
+							WHERE vehicletype_id = '1' AND is_busy = '0' AND is_active = '1'
+							HAVING distance < 5
+							ORDER BY distance ASC 03/03/2018 11:28:06 pm loader_num_rows103/03/2018 11:29:37 pm SELECT DISTINCT location_lat,location_lng,
+							( 3959 * acos( cos( radians('19.1056486')) * cos( radians(location_lat))
+							* cos( radians(location_lng) - radians('72.8990813')) + sin(radians('19.1056486'))
+							* sin( radians(location_lat)))) AS distance
+							FROM view_driver_info
+							WHERE vehicletype_id = '9' AND is_busy = '0' AND is_active = '1'
+							HAVING distance < 5
+							ORDER BY distance ASC 03/03/2018 11:29:37 pm loader_num_rows003/03/2018 11:29:38 pm SELECT DISTINCT location_lat,location_lng,
+							( 3959 * acos( cos( radians('19.1056486')) * cos( radians(location_lat))
+							* cos( radians(location_lng) - radians('72.8990813')) + sin(radians('19.1056486'))
+							* sin( radians(location_lat)))) AS distance
+							FROM view_driver_info
+							WHERE vehicletype_id = '1' AND is_busy = '0' AND is_active = '1'
+							HAVING distance < 5
+							ORDER BY distance ASC 03/03/2018 11:29:38 pm loader_num_rows1

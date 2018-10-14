@@ -1,0 +1,4 @@
+28/02/2018 11:18:07 am SELECT customer_token,customer_location_datetime,
+	                   customer_name,customer_mobile_no,customer_location_lat,customer_location_lng,material_image FROM view_booking_detail  WHERE ((driver_token = 'dc59bc7d0d0f20949a71507ec4250afa40692085') AND (crn_no = 'CRN1519576140')) 28/02/2018 11:19:39 am SELECT customer_token,customer_location_datetime,
+	                   customer_name,customer_mobile_no,customer_location_lat,customer_location_lng,material_image FROM view_booking_detail  WHERE ((driver_token = 'dc59bc7d0d0f20949a71507ec4250afa40692085') AND (crn_no = 'CRN1519553220')) 28/02/2018 11:20:03 am SELECT customer_token,customer_location_datetime,
+	                   customer_name,customer_mobile_no,customer_location_lat,customer_location_lng,material_image FROM view_booking_detail  WHERE ((driver_token = 'dc59bc7d0d0f20949a71507ec4250afa40692085') AND (crn_no = 'CRN1519553220')) 

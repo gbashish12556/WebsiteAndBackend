@@ -1,0 +1,1 @@
+26/02/2018 11:04:18 am SELECT crn_no,booking_datetime,vehicletype_id,from_point,to_point FROM view_booking_detail WHERE driver_token = 'dc59bc7d0d0f20949a71507ec4250afa40692085' AND customer_token != 'DefaultIsNothing' AND booking_datetime < '2018-02-26 11:04:18' AND is_completed = '0'  ORDER BY booking_datetime DESC LIMIT 0,5

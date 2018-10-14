@@ -1,0 +1,2 @@
+03/03/2018 11:28:41 pm SELECT customer_token,customer_location_datetime,
+	                   customer_name,customer_mobile_no,customer_location_lat,customer_location_lng,material_image FROM view_booking_detail  WHERE ((driver_token = 'dc59bc7d0d0f20949a71507ec4250afa40692085') AND (crn_no = 'CRN1520099880')) 

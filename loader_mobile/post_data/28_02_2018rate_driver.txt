@@ -1,0 +1,14 @@
+28/02/2018 11:40:36 am Array
+(
+    [page] => rate_driver
+    [customer_feedback] => 
+    [driver_rating] => 5.0
+    [booking_id] => 47
+)
+28/02/2018 11:41:00 am Array
+(
+    [page] => rate_driver
+    [customer_feedback] => 
+    [driver_rating] => 5.0
+    [booking_id] => 48
+)

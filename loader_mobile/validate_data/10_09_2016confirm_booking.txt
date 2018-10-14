@@ -1,0 +1,1 @@
+10/09/2016 08:36:06 pm SELECT name,mobile_no FROM view_customer_info WHERE user_token = '13685ba0878016db95d95582277917a5ccf2a71a'10/09/2016 08:36:06 pm SELECT name,mobile_no FROM view_customer_info WHERE user_token = '13685ba0878016db95d95582277917a5ccf2a71a'

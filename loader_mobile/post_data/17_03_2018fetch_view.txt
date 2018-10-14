@@ -1,0 +1,240 @@
+17/03/2018 02:38:13 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_base_fare
+    [latest_date] => 2016-02-13 10:05:09
+)
+17/03/2018 02:38:13 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_city
+    [latest_date] => 2018-02-19 20:10:37
+)
+17/03/2018 02:38:13 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_pricing
+    [latest_date] => 2016-02-13 10:06:02
+)
+17/03/2018 02:38:13 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_vehicle_type
+    [latest_date] => 2016-02-13 10:04:03
+)
+17/03/2018 02:38:44 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_base_fare
+    [latest_date] => 2016-02-13 10:05:09
+)
+17/03/2018 02:38:44 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_city
+    [latest_date] => 2018-02-19 20:10:37
+)
+17/03/2018 02:38:44 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_pricing
+    [latest_date] => 2016-02-13 10:06:02
+)
+17/03/2018 02:38:44 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_vehicle_type
+    [latest_date] => 2016-02-13 10:04:03
+)
+17/03/2018 02:53:50 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_base_fare
+    [latest_date] => 2016-02-13 10:05:09
+)
+17/03/2018 02:53:50 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_city
+    [latest_date] => 2018-02-19 20:10:37
+)
+17/03/2018 02:53:50 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_pricing
+    [latest_date] => 2016-02-13 10:06:02
+)
+17/03/2018 02:53:50 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_vehicle_type
+    [latest_date] => 2016-02-13 10:04:03
+)
+17/03/2018 04:01:35 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_base_fare
+    [latest_date] => 2016-02-13 10:05:09
+)
+17/03/2018 04:01:35 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_city
+    [latest_date] => 2018-02-19 20:10:37
+)
+17/03/2018 04:01:35 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_pricing
+    [latest_date] => 2016-02-13 10:06:02
+)
+17/03/2018 04:01:35 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_vehicle_type
+    [latest_date] => 2016-02-13 10:04:03
+)
+17/03/2018 04:02:54 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_base_fare
+    [latest_date] => 2016-02-13 10:05:09
+)
+17/03/2018 04:02:54 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_city
+    [latest_date] => 2018-02-19 20:10:37
+)
+17/03/2018 04:02:54 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_pricing
+    [latest_date] => 2016-02-13 10:06:02
+)
+17/03/2018 04:02:54 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_vehicle_type
+    [latest_date] => 2016-02-13 10:04:03
+)
+17/03/2018 04:04:32 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_base_fare
+    [latest_date] => 2016-02-13 10:05:09
+)
+17/03/2018 04:04:32 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_city
+    [latest_date] => 2018-02-19 20:10:37
+)
+17/03/2018 04:04:32 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_pricing
+    [latest_date] => 2016-02-13 10:06:02
+)
+17/03/2018 04:04:32 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_vehicle_type
+    [latest_date] => 2016-02-13 10:04:03
+)
+17/03/2018 04:05:33 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_base_fare
+    [latest_date] => 2016-02-13 10:05:09
+)
+17/03/2018 04:05:33 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_city
+    [latest_date] => 2018-02-19 20:10:37
+)
+17/03/2018 04:05:33 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_pricing
+    [latest_date] => 2016-02-13 10:06:02
+)
+17/03/2018 04:05:33 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_vehicle_type
+    [latest_date] => 2016-02-13 10:04:03
+)
+17/03/2018 04:06:05 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_base_fare
+    [latest_date] => 2016-02-13 10:05:09
+)
+17/03/2018 04:06:05 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_city
+    [latest_date] => 2018-02-19 20:10:37
+)
+17/03/2018 04:06:05 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_pricing
+    [latest_date] => 2016-02-13 10:06:02
+)
+17/03/2018 04:06:05 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_vehicle_type
+    [latest_date] => 2016-02-13 10:04:03
+)
+17/03/2018 04:06:49 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_base_fare
+    [latest_date] => 2016-02-13 10:05:09
+)
+17/03/2018 04:06:49 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_city
+    [latest_date] => 2018-02-19 20:10:37
+)
+17/03/2018 04:06:49 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_pricing
+    [latest_date] => 2016-02-13 10:06:02
+)
+17/03/2018 04:06:49 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_vehicle_type
+    [latest_date] => 2016-02-13 10:04:03
+)
+17/03/2018 04:11:54 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_base_fare
+    [latest_date] => 2016-02-13 10:05:09
+)
+17/03/2018 04:11:55 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_city
+    [latest_date] => 2018-02-19 20:10:37
+)
+17/03/2018 04:11:55 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_pricing
+    [latest_date] => 2016-02-13 10:06:02
+)
+17/03/2018 04:11:55 pm Array
+(
+    [page] => fetch_view
+    [view_name] => view_vehicle_type
+    [latest_date] => 2016-02-13 10:04:03
+)

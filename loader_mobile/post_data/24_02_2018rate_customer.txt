@@ -1,0 +1,42 @@
+24/02/2018 12:25:17 pm Array
+(
+    [page] => rate_customer
+    [customer_rating] => 5.0
+    [driver_feedback] => 
+    [booking_id] => 46
+)
+24/02/2018 12:25:19 pm Array
+(
+    [page] => rate_customer
+    [customer_rating] => 5.0
+    [driver_feedback] => 
+    [booking_id] => 46
+)
+24/02/2018 12:25:32 pm Array
+(
+    [page] => rate_customer
+    [customer_rating] => 5.0
+    [driver_feedback] => 
+    [booking_id] => 46
+)
+24/02/2018 12:27:02 pm Array
+(
+    [page] => rate_customer
+    [customer_rating] => 5.0
+    [driver_feedback] => 
+    [booking_id] => 46
+)
+24/02/2018 12:28:17 pm Array
+(
+    [page] => rate_customer
+    [customer_rating] => 5.0
+    [driver_feedback] => 
+    [booking_id] => 46
+)
+24/02/2018 12:28:25 pm Array
+(
+    [page] => rate_customer
+    [customer_rating] => 5.0
+    [driver_feedback] => 
+    [booking_id] => 46
+)

@@ -1,0 +1,18 @@
+26/02/2018 11:02:16 am Array
+(
+    [page] => get_booking_status
+    [crn_no] => CRN1519576140
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+26/02/2018 11:02:20 am Array
+(
+    [page] => get_booking_status
+    [crn_no] => CRN1519553220
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+26/02/2018 11:02:24 am Array
+(
+    [page] => get_booking_status
+    [crn_no] => CRN1519576140
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)

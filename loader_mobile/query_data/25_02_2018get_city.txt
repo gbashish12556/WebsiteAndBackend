@@ -1,0 +1,15 @@
+25/02/2018 09:58:16 pm SELECT DISTINCT city_id,
+			( 3959 * acos( cos( radians('19.1057081')) * cos( radians(city_lat))
+			* cos( radians(city_lng) - radians('72.8991469')) + sin(radians('19.1057081'))
+			* sin( radians(city_lat)))) AS distance
+			FROM view_city
+			WHERE is_active = '1'
+			HAVING distance < 3000
+			ORDER BY distance ASC LIMIT 0,1 25/02/2018 09:58:16 pm query_run25/02/2018 09:58:16 pm rows_returned25/02/2018 09:58:42 pm SELECT DISTINCT city_id,
+			( 3959 * acos( cos( radians('19.1057081')) * cos( radians(city_lat))
+			* cos( radians(city_lng) - radians('72.8991469')) + sin(radians('19.1057081'))
+			* sin( radians(city_lat)))) AS distance
+			FROM view_city
+			WHERE is_active = '1'
+			HAVING distance < 3000
+			ORDER BY distance ASC LIMIT 0,1 25/02/2018 09:58:42 pm query_run25/02/2018 09:58:42 pm rows_returned

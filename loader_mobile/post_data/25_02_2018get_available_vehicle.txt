@@ -1,0 +1,7 @@
+25/02/2018 09:58:54 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1057152
+    [current_lng] => 72.8991107
+    [vehicle_type] => 1
+)

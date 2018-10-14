@@ -1,0 +1,32 @@
+23/02/2018 04:12:22 pm Array
+(
+    [page] => bill_generated
+    [crn_no] => CRN1519569600
+    [loading_start_time] => 2018-02-23 16:12:04
+    [total_time] => 0 hours 0 mins 11 secs
+    [total_distance] => 0.0
+    [unloading_end_time] => 2018-02-23 16:12:16
+    [journey_start_time] => 2018-02-23 16:12:08
+    [base_fare] => 300.0
+    [exact_dropoff_point] => 
+    [journey_end_time] => 2018-02-23 16:12:14
+    [user_token] => dc59bc7d0d0f20949a71507ec4250afa40692085
+    [total_fare] => 300.0
+    [exact_pickup_point] => 
+)
+23/02/2018 04:12:32 pm Array
+(
+    [page] => bill_generated
+    [crn_no] => CRN1519569600
+    [loading_start_time] => 2018-02-23 16:12:04
+    [total_time] => 0 hours 0 mins 11 secs
+    [total_distance] => 0.0
+    [unloading_end_time] => 2018-02-23 16:12:16
+    [journey_start_time] => 2018-02-23 16:12:08
+    [base_fare] => 300.0
+    [exact_dropoff_point] => 
+    [journey_end_time] => 2018-02-23 16:12:14
+    [user_token] => dc59bc7d0d0f20949a71507ec4250afa40692085
+    [total_fare] => 300.0
+    [exact_pickup_point] => 
+)

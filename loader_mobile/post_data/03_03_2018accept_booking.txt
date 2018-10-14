@@ -1,0 +1,14 @@
+03/03/2018 11:28:41 pm Array
+(
+    [page] => accept_booking
+    [crn_no] => CRN1520099880
+    [user_token] => dc59bc7d0d0f20949a71507ec4250afa40692085
+    [accept_flag] => 1
+)
+03/03/2018 11:28:41 pm Array
+(
+    [page] => accept_booking
+    [crn_no] => CRN1520099880
+    [user_token] => dc59bc7d0d0f20949a71507ec4250afa40692085
+    [accept_flag] => 1
+)

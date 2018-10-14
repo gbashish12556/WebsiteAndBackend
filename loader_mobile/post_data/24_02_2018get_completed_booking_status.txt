@@ -1,0 +1,12 @@
+24/02/2018 12:38:15 pm Array
+(
+    [page] => get_completed_booking_status
+    [crn_no] => CRN1519547040
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+24/02/2018 12:38:19 pm Array
+(
+    [page] => get_completed_booking_status
+    [crn_no] => CRN1519547040
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)

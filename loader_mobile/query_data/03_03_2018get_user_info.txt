@@ -1,0 +1,1 @@
+03/03/2018 11:28:47 pm SELECT location_lat, location_lng,location_datetime FROM view_driver_info WHERE user_token = 'dc59bc7d0d0f20949a71507ec4250afa40692085' 

@@ -1,0 +1,2 @@
+03/03/2018 11:28:34 pm SELECT from_point, to_point, booking_datetime, crn_no, material_weight, material_image,customer_mobile_no,vehicletype_id
+		           FROM view_booking_detail WHERE crn_no = 'CRN1520099880'

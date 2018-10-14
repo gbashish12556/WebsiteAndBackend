@@ -1,0 +1,413 @@
+24/02/2018 11:43:37 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177807
+    [current_lng] => 72.8886923
+    [vehicle_type] => 1
+)
+24/02/2018 11:54:01 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177885
+    [current_lng] => 72.8886881
+    [vehicle_type] => 1
+)
+24/02/2018 11:54:03 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177885
+    [current_lng] => 72.8886881
+    [vehicle_type] => 9
+)
+24/02/2018 11:54:03 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177885
+    [current_lng] => 72.8886881
+    [vehicle_type] => 1
+)
+24/02/2018 11:54:05 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.117784
+    [current_lng] => 72.8886908
+    [vehicle_type] => 9
+)
+24/02/2018 11:54:05 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.117784
+    [current_lng] => 72.8886908
+    [vehicle_type] => 1
+)
+24/02/2018 11:54:06 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.117784
+    [current_lng] => 72.8886908
+    [vehicle_type] => 9
+)
+24/02/2018 11:54:07 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.117784
+    [current_lng] => 72.8886908
+    [vehicle_type] => 1
+)
+24/02/2018 11:54:07 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.117784
+    [current_lng] => 72.8886908
+    [vehicle_type] => 9
+)
+24/02/2018 11:54:08 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.117784
+    [current_lng] => 72.8886908
+    [vehicle_type] => 1
+)
+24/02/2018 11:54:09 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177821
+    [current_lng] => 72.888692
+    [vehicle_type] => 9
+)
+24/02/2018 11:54:09 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177821
+    [current_lng] => 72.888692
+    [vehicle_type] => 1
+)
+24/02/2018 11:54:10 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177821
+    [current_lng] => 72.888692
+    [vehicle_type] => 9
+)
+24/02/2018 11:54:10 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177821
+    [current_lng] => 72.888692
+    [vehicle_type] => 1
+)
+24/02/2018 11:54:11 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177821
+    [current_lng] => 72.888692
+    [vehicle_type] => 9
+)
+24/02/2018 11:54:11 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177821
+    [current_lng] => 72.888692
+    [vehicle_type] => 1
+)
+24/02/2018 11:54:11 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177821
+    [current_lng] => 72.888692
+    [vehicle_type] => 9
+)
+24/02/2018 11:54:12 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177821
+    [current_lng] => 72.888692
+    [vehicle_type] => 1
+)
+24/02/2018 11:54:12 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177821
+    [current_lng] => 72.888692
+    [vehicle_type] => 9
+)
+24/02/2018 11:54:13 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177821
+    [current_lng] => 72.888692
+    [vehicle_type] => 1
+)
+24/02/2018 11:54:13 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177809
+    [current_lng] => 72.8886927
+    [vehicle_type] => 9
+)
+24/02/2018 11:54:14 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177809
+    [current_lng] => 72.8886927
+    [vehicle_type] => 1
+)
+24/02/2018 11:54:14 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177809
+    [current_lng] => 72.8886927
+    [vehicle_type] => 9
+)
+24/02/2018 11:54:15 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177809
+    [current_lng] => 72.8886927
+    [vehicle_type] => 1
+)
+24/02/2018 11:54:15 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177809
+    [current_lng] => 72.8886927
+    [vehicle_type] => 9
+)
+24/02/2018 11:54:16 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177809
+    [current_lng] => 72.8886927
+    [vehicle_type] => 1
+)
+24/02/2018 11:54:16 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177809
+    [current_lng] => 72.8886927
+    [vehicle_type] => 9
+)
+24/02/2018 11:54:16 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177809
+    [current_lng] => 72.8886927
+    [vehicle_type] => 1
+)
+24/02/2018 11:54:17 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177809
+    [current_lng] => 72.8886927
+    [vehicle_type] => 9
+)
+24/02/2018 11:54:17 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177809
+    [current_lng] => 72.8886927
+    [vehicle_type] => 1
+)
+24/02/2018 11:54:18 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177809
+    [current_lng] => 72.8886927
+    [vehicle_type] => 9
+)
+24/02/2018 11:54:18 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177829
+    [current_lng] => 72.8886913
+    [vehicle_type] => 1
+)
+24/02/2018 11:54:20 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177829
+    [current_lng] => 72.8886913
+    [vehicle_type] => 9
+)
+24/02/2018 11:54:21 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177829
+    [current_lng] => 72.8886913
+    [vehicle_type] => 1
+)
+24/02/2018 11:54:27 am Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177829
+    [current_lng] => 72.8886913
+    [vehicle_type] => 1
+)
+24/02/2018 12:39:39 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177918
+    [current_lng] => 72.8886983
+    [vehicle_type] => 9
+)
+24/02/2018 12:39:40 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177849
+    [current_lng] => 72.8886958
+    [vehicle_type] => 1
+)
+24/02/2018 01:37:59 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177925
+    [current_lng] => 72.8886977
+    [vehicle_type] => 9
+)
+24/02/2018 01:38:00 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177791
+    [current_lng] => 72.8886944
+    [vehicle_type] => 1
+)
+24/02/2018 01:38:13 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177793
+    [current_lng] => 72.8886948
+    [vehicle_type] => 1
+)
+24/02/2018 01:38:43 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177793
+    [current_lng] => 72.8886941
+    [vehicle_type] => 1
+)
+24/02/2018 01:39:13 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177796
+    [current_lng] => 72.8886937
+    [vehicle_type] => 1
+)
+24/02/2018 01:39:43 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177823
+    [current_lng] => 72.8886924
+    [vehicle_type] => 1
+)
+24/02/2018 01:42:23 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.117779
+    [current_lng] => 72.8886937
+    [vehicle_type] => 9
+)
+24/02/2018 01:42:23 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.117779
+    [current_lng] => 72.8886937
+    [vehicle_type] => 1
+)
+24/02/2018 01:42:28 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.117779
+    [current_lng] => 72.8886938
+    [vehicle_type] => 1
+)
+24/02/2018 01:42:55 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177774
+    [current_lng] => 72.8886933
+    [vehicle_type] => 1
+)
+24/02/2018 01:43:25 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177793
+    [current_lng] => 72.8886942
+    [vehicle_type] => 1
+)
+24/02/2018 01:43:55 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177792
+    [current_lng] => 72.888694
+    [vehicle_type] => 1
+)
+24/02/2018 01:44:25 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177793
+    [current_lng] => 72.8886941
+    [vehicle_type] => 1
+)
+24/02/2018 01:47:55 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177789
+    [current_lng] => 72.8886935
+    [vehicle_type] => 1
+)
+24/02/2018 01:48:25 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177789
+    [current_lng] => 72.8886939
+    [vehicle_type] => 1
+)
+24/02/2018 01:48:55 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177784
+    [current_lng] => 72.888694
+    [vehicle_type] => 1
+)
+24/02/2018 01:49:25 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177786
+    [current_lng] => 72.8886943
+    [vehicle_type] => 1
+)
+24/02/2018 02:35:24 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177886
+    [current_lng] => 72.8886895
+    [vehicle_type] => 1
+)
+24/02/2018 02:35:25 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177886
+    [current_lng] => 72.8886895
+    [vehicle_type] => 9
+)
+24/02/2018 02:35:25 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177886
+    [current_lng] => 72.8886895
+    [vehicle_type] => 1
+)
+24/02/2018 02:37:48 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1177879
+    [current_lng] => 72.8886899
+    [vehicle_type] => 1
+)
+24/02/2018 03:00:44 pm Array
+(
+    [page] => get_available_vehicle
+    [current_lat] => 19.1178014
+    [current_lng] => 72.8887006
+    [vehicle_type] => 1
+)

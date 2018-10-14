@@ -1,0 +1,24 @@
+03/03/2018 11:26:46 pm Array
+(
+    [page] => get_booking_status
+    [crn_no] => CRN1520099760
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+03/03/2018 11:28:31 pm Array
+(
+    [page] => get_booking_status
+    [crn_no] => CRN1520099880
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+03/03/2018 11:28:46 pm Array
+(
+    [page] => get_booking_status
+    [crn_no] => CRN1520099880
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+03/03/2018 11:29:17 pm Array
+(
+    [page] => get_booking_status
+    [crn_no] => CRN1520099760
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)

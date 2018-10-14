@@ -1,0 +1,21 @@
+03/03/2018 11:25:37 pm Array
+(
+    [page] => update_customer_location
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+    [location_lng] => 72.8991039
+    [location_lat] => 19.1057073
+)
+03/03/2018 11:26:07 pm Array
+(
+    [page] => update_customer_location
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+    [location_lng] => 72.8991057
+    [location_lat] => 19.1056956
+)
+03/03/2018 11:26:37 pm Array
+(
+    [page] => update_customer_location
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+    [location_lng] => 72.899105
+    [location_lat] => 19.1057055
+)

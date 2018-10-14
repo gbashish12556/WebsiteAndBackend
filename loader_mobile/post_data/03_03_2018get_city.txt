@@ -1,0 +1,24 @@
+03/03/2018 02:22:28 pm Array
+(
+    [page] => get_city
+    [current_lat] => 19.1015766
+    [current_lng] => 72.895807
+)
+03/03/2018 11:12:59 pm Array
+(
+    [page] => get_city
+    [current_lat] => 19.1056738
+    [current_lng] => 72.8990858
+)
+03/03/2018 11:25:57 pm Array
+(
+    [page] => get_city
+    [current_lat] => 19.1056948
+    [current_lng] => 72.899117
+)
+03/03/2018 11:27:58 pm Array
+(
+    [page] => get_city
+    [current_lat] => 19.1057055
+    [current_lng] => 72.899105
+)

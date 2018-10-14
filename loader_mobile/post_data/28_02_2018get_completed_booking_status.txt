@@ -1,0 +1,120 @@
+28/02/2018 11:39:17 am Array
+(
+    [page] => get_completed_booking_status
+    [crn_no] => CRN1519576140
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+28/02/2018 11:39:42 am Array
+(
+    [page] => get_completed_booking_status
+    [crn_no] => CRN1519576140
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+28/02/2018 11:40:12 am Array
+(
+    [page] => get_completed_booking_status
+    [crn_no] => CRN1519547040
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+28/02/2018 11:40:22 am Array
+(
+    [page] => get_completed_booking_status
+    [crn_no] => CRN1519547040
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+28/02/2018 11:40:33 am Array
+(
+    [page] => get_completed_booking_status
+    [crn_no] => CRN1519553220
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+28/02/2018 11:40:36 am Array
+(
+    [page] => get_completed_booking_status
+    [crn_no] => CRN1519553220
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+28/02/2018 11:40:45 am Array
+(
+    [page] => get_completed_booking_status
+    [crn_no] => CRN1519553220
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+28/02/2018 11:40:51 am Array
+(
+    [page] => get_completed_booking_status
+    [crn_no] => CRN1519547040
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+28/02/2018 11:40:55 am Array
+(
+    [page] => get_completed_booking_status
+    [crn_no] => CRN1519576140
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+28/02/2018 11:41:00 am Array
+(
+    [page] => get_completed_booking_status
+    [crn_no] => CRN1519576140
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+28/02/2018 11:42:28 am Array
+(
+    [page] => get_completed_booking_status
+    [crn_no] => CRN1519576140
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+28/02/2018 11:42:37 am Array
+(
+    [page] => get_completed_booking_status
+    [crn_no] => CRN1519547040
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+28/02/2018 11:42:43 am Array
+(
+    [page] => get_completed_booking_status
+    [crn_no] => CRN1519553220
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+28/02/2018 11:42:47 am Array
+(
+    [page] => get_completed_booking_status
+    [crn_no] => CRN1519576140
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+28/02/2018 11:42:53 am Array
+(
+    [page] => get_completed_booking_status
+    [crn_no] => CRN1519553220
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+28/02/2018 11:44:20 am Array
+(
+    [page] => get_completed_booking_status
+    [crn_no] => CRN1519576140
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+28/02/2018 11:47:15 am Array
+(
+    [page] => get_completed_booking_status
+    [crn_no] => CRN1519576140
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+28/02/2018 11:47:19 am Array
+(
+    [page] => get_completed_booking_status
+    [crn_no] => CRN1519553220
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+28/02/2018 11:57:49 am Array
+(
+    [page] => get_completed_booking_status
+    [crn_no] => CRN1519547040
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+28/02/2018 12:00:28 pm Array
+(
+    [page] => get_completed_booking_status
+    [crn_no] => CRN1519576140
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)

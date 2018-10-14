@@ -1,0 +1,3 @@
+28/02/2018 11:19:18 am UPDATE tbl_booking_detail SET fld_customer_rating= '5.0', fld_driver_feedback =''
+      WHERE fld_booking_ai_id = '48'28/02/2018 11:20:53 am UPDATE tbl_booking_detail SET fld_customer_rating= '4.5', fld_driver_feedback =''
+      WHERE fld_booking_ai_id = '47'

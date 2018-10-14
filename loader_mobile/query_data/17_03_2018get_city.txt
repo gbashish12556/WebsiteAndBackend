@@ -1,0 +1,71 @@
+17/03/2018 02:38:12 pm SELECT DISTINCT city_id,
+			( 3959 * acos( cos( radians('19.1177241')) * cos( radians(city_lat))
+			* cos( radians(city_lng) - radians('72.8886126')) + sin(radians('19.1177241'))
+			* sin( radians(city_lat)))) AS distance
+			FROM view_city
+			WHERE is_active = '1'
+			HAVING distance < 3000
+			ORDER BY distance ASC LIMIT 0,1 17/03/2018 02:38:13 pm query_run17/03/2018 02:38:13 pm rows_returned17/03/2018 02:38:44 pm SELECT DISTINCT city_id,
+			( 3959 * acos( cos( radians('19.1177213')) * cos( radians(city_lat))
+			* cos( radians(city_lng) - radians('72.8886253')) + sin(radians('19.1177213'))
+			* sin( radians(city_lat)))) AS distance
+			FROM view_city
+			WHERE is_active = '1'
+			HAVING distance < 3000
+			ORDER BY distance ASC LIMIT 0,1 17/03/2018 02:38:44 pm query_run17/03/2018 02:38:44 pm rows_returned17/03/2018 02:53:50 pm SELECT DISTINCT city_id,
+			( 3959 * acos( cos( radians('19.1177484')) * cos( radians(city_lat))
+			* cos( radians(city_lng) - radians('72.8886458')) + sin(radians('19.1177484'))
+			* sin( radians(city_lat)))) AS distance
+			FROM view_city
+			WHERE is_active = '1'
+			HAVING distance < 3000
+			ORDER BY distance ASC LIMIT 0,1 17/03/2018 02:53:50 pm query_run17/03/2018 02:53:50 pm rows_returned17/03/2018 04:01:35 pm SELECT DISTINCT city_id,
+			( 3959 * acos( cos( radians('19.1177171')) * cos( radians(city_lat))
+			* cos( radians(city_lng) - radians('72.8886214')) + sin(radians('19.1177171'))
+			* sin( radians(city_lat)))) AS distance
+			FROM view_city
+			WHERE is_active = '1'
+			HAVING distance < 3000
+			ORDER BY distance ASC LIMIT 0,1 17/03/2018 04:01:35 pm query_run17/03/2018 04:01:35 pm rows_returned17/03/2018 04:02:54 pm SELECT DISTINCT city_id,
+			( 3959 * acos( cos( radians('19.1177158')) * cos( radians(city_lat))
+			* cos( radians(city_lng) - radians('72.8886253')) + sin(radians('19.1177158'))
+			* sin( radians(city_lat)))) AS distance
+			FROM view_city
+			WHERE is_active = '1'
+			HAVING distance < 3000
+			ORDER BY distance ASC LIMIT 0,1 17/03/2018 04:02:54 pm query_run17/03/2018 04:02:54 pm rows_returned17/03/2018 04:04:32 pm SELECT DISTINCT city_id,
+			( 3959 * acos( cos( radians('19.1177161')) * cos( radians(city_lat))
+			* cos( radians(city_lng) - radians('72.888623')) + sin(radians('19.1177161'))
+			* sin( radians(city_lat)))) AS distance
+			FROM view_city
+			WHERE is_active = '1'
+			HAVING distance < 3000
+			ORDER BY distance ASC LIMIT 0,1 17/03/2018 04:04:32 pm query_run17/03/2018 04:04:32 pm rows_returned17/03/2018 04:05:33 pm SELECT DISTINCT city_id,
+			( 3959 * acos( cos( radians('19.1177144')) * cos( radians(city_lat))
+			* cos( radians(city_lng) - radians('72.8886189')) + sin(radians('19.1177144'))
+			* sin( radians(city_lat)))) AS distance
+			FROM view_city
+			WHERE is_active = '1'
+			HAVING distance < 3000
+			ORDER BY distance ASC LIMIT 0,1 17/03/2018 04:05:33 pm query_run17/03/2018 04:05:33 pm rows_returned17/03/2018 04:06:05 pm SELECT DISTINCT city_id,
+			( 3959 * acos( cos( radians('19.1177238')) * cos( radians(city_lat))
+			* cos( radians(city_lng) - radians('72.888614')) + sin(radians('19.1177238'))
+			* sin( radians(city_lat)))) AS distance
+			FROM view_city
+			WHERE is_active = '1'
+			HAVING distance < 3000
+			ORDER BY distance ASC LIMIT 0,1 17/03/2018 04:06:05 pm query_run17/03/2018 04:06:05 pm rows_returned17/03/2018 04:06:48 pm SELECT DISTINCT city_id,
+			( 3959 * acos( cos( radians('19.1177175')) * cos( radians(city_lat))
+			* cos( radians(city_lng) - radians('72.8886129')) + sin(radians('19.1177175'))
+			* sin( radians(city_lat)))) AS distance
+			FROM view_city
+			WHERE is_active = '1'
+			HAVING distance < 3000
+			ORDER BY distance ASC LIMIT 0,1 17/03/2018 04:06:48 pm query_run17/03/2018 04:06:48 pm rows_returned17/03/2018 04:11:54 pm SELECT DISTINCT city_id,
+			( 3959 * acos( cos( radians('19.1177186')) * cos( radians(city_lat))
+			* cos( radians(city_lng) - radians('72.8886413')) + sin(radians('19.1177186'))
+			* sin( radians(city_lat)))) AS distance
+			FROM view_city
+			WHERE is_active = '1'
+			HAVING distance < 3000
+			ORDER BY distance ASC LIMIT 0,1 17/03/2018 04:11:54 pm query_run17/03/2018 04:11:54 pm rows_returned

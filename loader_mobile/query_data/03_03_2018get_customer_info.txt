@@ -1,0 +1,1 @@
+03/03/2018 11:29:48 pm SELECT name, email, postal_address ,user_token FROM view_customer_info WHERE mobile_no = '7678157636' 03/03/2018 11:29:48 pm Previous query successfully run03/03/2018 11:29:57 pm SELECT name, email, postal_address ,user_token FROM view_customer_info WHERE mobile_no = '7678157636' 03/03/2018 11:29:57 pm Previous query successfully run

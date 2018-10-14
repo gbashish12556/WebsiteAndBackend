@@ -1,0 +1,5 @@
+Options +FollowSymLinks -MultiViews +Indexes
+RewriteEngine On
+#RewriteCond %{HTTPS} off
+#RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} 
+RewriteRule ^zopim_chat$ ?page=zopim_chat

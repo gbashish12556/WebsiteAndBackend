@@ -1,0 +1,24 @@
+24/02/2018 02:31:19 pm Array
+(
+    [page] => update_customer_device
+    [gcm_regid] => ejdnmn5rbFw:APA91bFtCWZx9NRoYm7ZhIOzNYEX4A423fv4bmXmh99-N5CiGy2h3ZjelACuktjiktlrp6JqfSV-gfxm6IFrAl3k8h4ippzLrJ301yyk61ebuzrMj9wvRwwdFxJQrn-QVaP_1HMXCN86
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+24/02/2018 02:31:19 pm Array
+(
+    [page] => update_customer_device
+    [gcm_regid] => ejdnmn5rbFw:APA91bFtCWZx9NRoYm7ZhIOzNYEX4A423fv4bmXmh99-N5CiGy2h3ZjelACuktjiktlrp6JqfSV-gfxm6IFrAl3k8h4ippzLrJ301yyk61ebuzrMj9wvRwwdFxJQrn-QVaP_1HMXCN86
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+24/02/2018 02:36:10 pm Array
+(
+    [page] => update_customer_device
+    [gcm_regid] => ejdnmn5rbFw:APA91bFtCWZx9NRoYm7ZhIOzNYEX4A423fv4bmXmh99-N5CiGy2h3ZjelACuktjiktlrp6JqfSV-gfxm6IFrAl3k8h4ippzLrJ301yyk61ebuzrMj9wvRwwdFxJQrn-QVaP_1HMXCN86
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)
+24/02/2018 02:36:10 pm Array
+(
+    [page] => update_customer_device
+    [gcm_regid] => ejdnmn5rbFw:APA91bFtCWZx9NRoYm7ZhIOzNYEX4A423fv4bmXmh99-N5CiGy2h3ZjelACuktjiktlrp6JqfSV-gfxm6IFrAl3k8h4ippzLrJ301yyk61ebuzrMj9wvRwwdFxJQrn-QVaP_1HMXCN86
+    [user_token] => e8eeec426284a84f9874b12cfe5f8a2359d9327a
+)

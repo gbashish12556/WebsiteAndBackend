@@ -1,0 +1,8 @@
+26/02/2018 11:01:59 am SELECT DISTINCT location_lat,location_lng,
+							( 3959 * acos( cos( radians('19.1177885')) * cos( radians(location_lat))
+							* cos( radians(location_lng) - radians('72.8886893')) + sin(radians('19.1177885'))
+							* sin( radians(location_lat)))) AS distance
+							FROM view_driver_info
+							WHERE vehicletype_id = '1' AND is_busy = '0' AND is_active = '1'
+							HAVING distance < 5
+							ORDER BY distance ASC 26/02/2018 11:01:59 am loader_num_rows1
